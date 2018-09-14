@@ -1,0 +1,22 @@
+Viewing a diff between two versions of a file helped me a lot because it was easy to tell what had been changed and which version was correct.
+
+Having easy access to the entire history of a file makes you a move efficient programmer in the long term because it lets you see what you changed and you won't waste time looking through all of your code, even that stuff that you haven't changed.
+
+Some version control systems allow saving multiple files in one commit because it is easy to keep like-files together.
+
+Using version control makes you more confident to make changes that could break something, because git makes it a lot easier to find the bugs and change them without reading all of the code in one version and all of the code in the other version
+
+I want to use git for looking at different versions and how they have been changed for me to worry less about messing up my code.
+
+You can use the staging area to make sure that you have one commit per logical change because  ****finish this question.  shown on lesson three number 12
+
+Branches help in keeping history organized because it shows you what type of work your'e doing.
+
+Diagrams help you visualize the branch structure because it shows you connections between branches and things that you've committed in each branch.
+
+Merging two branches together will let you see the changes you made in each separate branch and how it is used to form the project.  For example, you will be able to see your work and your partner's work.  This allows you to learn different ways of writing code and to check the code if there are any problems.  We represent it in the diagram that we do because this lets us see the connections and how the branches are intertwined.
+
+The pros of merging automatically would be that it is faster and you will spend less time working on the merges.
+The cons would be that it could mess up.
+The pros of merging manually would be that you probably won't mess it up.
+The cons would be that it takes a bit longer
